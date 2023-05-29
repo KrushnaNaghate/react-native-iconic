@@ -34,7 +34,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile 'com.github.prscX:material-menu:1ce715ab5d0abf3859e3f0219454b76a1371ced8'
-    compile 'com.github.prscX:Android-ExpandIcon:fa9d3ca18a10bc8f68ff3dce0b6165a6ce719cef'
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.github.prscX:material-menu:1ce715ab5d0abf3859e3f0219454b76a1371ced8'
+    implementation 'com.github.prscX:Android-ExpandIcon:fa9d3ca18a10bc8f68ff3dce0b6165a6ce719cef'
 }
